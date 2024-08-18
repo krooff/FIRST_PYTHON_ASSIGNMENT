@@ -1,0 +1,21 @@
+# Task 1
+
+milk = 2.99
+bread = 1.49
+eggs = 3.25
+
+total_cost =(milk + bread + eggs)
+
+print(total_cost)
+
+# Task 2
+
+initial_amount = 200.00  
+
+interest_rate = 4.0
+
+interest_earned = initial_amount * (interest_rate / 100)
+
+total_amount = initial_amount + interest_earned
+
+print("The total amount in the savings account after one year is: $", round(total_amount, 2))

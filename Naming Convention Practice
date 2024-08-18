@@ -1,0 +1,9 @@
+# Task 1
+# Changed to all caps for constant
+PI_VALUE = 3.14
+# Conformity in convention(camel case vs snake)
+user_age = 25
+# Did nothing. I don't understand the issue here
+user_location = "New York"
+# Conformity, should also relate to constants
+MAX_LIMIT = 1000
